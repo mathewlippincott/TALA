@@ -7,11 +7,11 @@ You can contribute to the TALA replication project by:
 * Expanding our documentation of kite anemometry research and projects on [the Public Lab Wiki.](https://publiclab.org/wiki/kite-anemometers)
 * Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) repository, as well as adding applications of those models.
 * Adding your comments to [open issues in this repository](./issues).
-* [Forking this repository](OPEN Open Source Project) to improve the design, assembly instructions, or to add hardware or software for acquiring and interpretting data. 
+* Forking this repository and improving the design documentation, assembly instructions, or to add hardware or software for acquiring and interpretting data. 
 
-#Contributing to OPEN Open Source Project
+#Contributing to an OPEN Open Source project repository
 
-This is an [OPEN Open Source](http://openopensource.org/) hardware project. Please fork it and work in your own copy, pushing changes back to the master branch. 
+This is an [OPEN Open Source](http://openopensource.org/) hardware project. Please fork it and work in your own copy, and file pull requests back to the master branch. 
 
 
 ## What?
