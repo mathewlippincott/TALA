@@ -1,5 +1,9 @@
 ###The TALA Kite
-These instructions are re-written from advice in the TALA manual. To Make a TALA kite see [TALA Assembly](TALA_assembly.md).
+The TALA kite is a type of sled kite. It is 1500cm^2 of surface area and the main sheet weighs 16g.  With all the rigging it weighs 18g.
+
+All dimensions are in the TALA kite CAD file [TALA.dxf](TALA.dxf).  This 2D CAD file was created with the open source program [QCAD](http://qcad.org).
+
+The instructions for maintenance and rigging are re-written from advice in the TALA manual. To make a TALA kite see [TALA Assembly](TALA_Assembly.md).
 
 ####TALA Kite rigging adjustment
 Tow the TALA without a tail attached behind an automobile in dead air.  IF the TALA veers to the left, add one or two half hitches to the left side of the kite’s bridle (as you view it in flight).  Continue towing adjustment unti the TALA is stable at 10m/s 

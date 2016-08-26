@@ -17,7 +17,7 @@
 ####Assembly instructions
 Print [1/2 sheet cut pattern](TALA-half-sheet-8.5x11.pdf) on 8.5x11” paper and assemble tiled sheets.
 
-Tape as indicated.  Assembly diagram is for the back side of the kite. [print full-size tiled kite pattern](
+Tape as indicated.  Assembly diagram is for the back side of the kite. [print full-size tiled kite pattern](TALA-sheet-8.5x11.pdf)
 _[ADD svg vector diagram]_
 
 
