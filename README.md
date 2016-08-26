@@ -1,5 +1,5 @@
 ###Introduction to the TALA
-The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](https://github.com/mathewlippincott/Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground measurements. The TALA repository consists of the [TALA kite](TALA_Kite) and [kite-specific corrections to ground-based measurements](TALA_Measurement) that can be used to accurately measure wind speed (anemometry) and turbulence at the kite's altitude, as well as a kit of recommended tools for taking the required ground based measurements.
+The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground measurements. The TALA repository consists of the [TALA kite](TALA_Kite) and [kite-specific corrections to ground-based measurements](TALA_Measurement) that can be used to accurately measure wind speed (anemometry) and turbulence at the kite's altitude, as well as a kit of recommended tools for taking the required ground based measurements.
  
 ###Current TALA kit 
 * The [TALA kite](TALA_Kite)
@@ -21,8 +21,8 @@ The TALA was imagined as an automated kite flight and measurement system providi
 ![TALAs at an airport](pics/US4058010-1.png)
 
 ###About this project
-The TALA repository is a project of [Public Lab](www.publiclab.org) to [collect ongoing research into kite anemometry](www.publiclab.org/tag/kite-anemometer) into a stable device replicating the TALA and licensed under [CERN OHL 1.2](http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt).
+The TALA repository is a project of [Public Lab](www.publiclab.org) to [collect ongoing research into kite anemometry](www.publiclab.org/tag/kite-anemometer) into a stable device replicating the TALA and licensed under [CERN OHL 1.2](LiCENSE.md).
 
-To read more about using kite anemometers and find resources and sources used in this repository, visit the [Public Lab Wiki](publiclab.org/wiki/kite-anemometers). To learn more about contibuting, please read our [contribution guidelines](CONTRIBUTE.md)
+To read more about using kite anemometers and find resources and sources used in this repository, visit the [Public Lab Wiki](publiclab.org/wiki/kite-anemometers). To learn more about contibuting, please read our [contribution guidelines](contributing.md)
 
 
