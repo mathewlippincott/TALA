@@ -5,8 +5,8 @@ You can contribute to the TALA replication project by:
  
 * Replicating the TALA kit and documenting your use of it on [publiclab.org](https://publiclab.org) with the tag "[kite-anemometer](https://publiclab.org/tag/kite-anemometer)." If you record your experiences elsewhere, please contact us and share.
 * Expanding our documentation of kite anemometry research and projects on [the Public Lab Wiki.](https://publiclab.org/wiki/kite-anemometers)
-* Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) repository, as well as adding applications of those models.
-* Adding your comments to [open issues in this repository](./issues).
+* Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](./Kite-Wind-Speed-Meter) repository, as well as adding applications of those models.
+* Adding your comments to [open issues in this repository](/issues).
 * Forking this repository and improving the design documentation, assembly instructions, or to add hardware or software for acquiring and interpretting data. 
 
 #Contributing to an OPEN Open Source project repository
