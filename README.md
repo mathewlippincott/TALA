@@ -6,8 +6,10 @@ The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Sp
 * Spring scale for line tension
 * compass for wind direction
 * thermometer for ground temperature
+* barometer for ground pressure
 * clinometer for angles of the kite and kite line
 * marked kite line for counting the amount of line in the air
+ * or fishing line length counter 
 * [look up tables and equations](TALA_Measurement) for extrapolating air speed from measurments
 
 ###Designers of the TALA
