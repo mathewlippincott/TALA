@@ -9,13 +9,10 @@ You can contribute to the TALA replication project by:
 * Adding your comments to [open issues in this repository](./issues).
 * [Forking this repository](OPEN Open Source Project) to improve the design, assembly instructions, or to add hardware or software for acquiring and interpretting data. 
 
-###Contributing to this repository
+#Contributing to OPEN Open Source Project
 
 This is an [OPEN Open Source](http://openopensource.org/) hardware project. Please fork it and work in your own copy, pushing changes back to the master branch. 
 
-# OPEN Open Source Project
-
------------------------------------------
 
 ## What?
 

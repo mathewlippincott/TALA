@@ -12,7 +12,7 @@ The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Sp
  * or fishing line length counter 
 * [look up tables and equations](TALA_Measurement) for extrapolating air speed from measurments
 
-####[learn how you can contribute.](contributing.md)
+###[how you can contribute](contributing.md)
 
 ###Designers of the TALA
 The kite was originally designed by Raymond P. Holland Jr. and adapted by Charles F. Woodhouse for anemometry into the TALA product sold by Approach Fish until some time in the early 1990's. The invention is covered by expired US patents 3,767,145, 4,058,010, 4,152,933 & 4,221,351.
