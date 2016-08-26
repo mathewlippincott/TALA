@@ -1,16 +1,21 @@
 ###Introduction to the TALA
-The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground measurements. The TALA repository consists of the [TALA kite](TALA_Kite) and [kite-specific corrections to ground-based measurements](TALA_Measurement) that can be used to accurately measure wind speed (anemometry) and turbulence at the kite's altitude, as well as a kit of recommended tools for taking the required ground based measurements.
+The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground-based measurements. 
+The TALA repository consists of the [TALA kite](TALA_Kite), kite-specific [corrections to ground-based measurements](TALA_Measurement), as well as a kit of recommended tools for taking the required ground based measurements. Together these components form the TALA kit.
  
 ###Current TALA kit 
 * The [TALA kite](TALA_Kite)
-* Spring scale for line tension
-* compass for wind direction
-* thermometer for ground temperature
-* barometer for ground pressure
-* clinometer for angles of the kite and kite line
-* marked kite line for counting the amount of line in the air
- * or fishing line length counter 
-* [look up tables and equations](TALA_Measurement) for extrapolating air speed from measurments
+* [Lookup tables and equations](TALA_Measurement) for extrapolating air speed from measurments by:
+ * correcting altitude measurements for line sag
+ * correcting wind speed measurements for air density
+* A [Measurement procedure](TALA_Measurment)
+* Measurement equipment:
+ * Spring scale for line tension
+ * marked kite line for counting the amount of line in the air (or fishing line length counter) 
+ * compass for wind direction
+ * inclinometer for the angle of the kite 
+ * thermometer for ground temperature
+ * barometer for ground pressure
+
 
 ###[how you can contribute](contributing.md)
 
