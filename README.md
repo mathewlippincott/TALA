@@ -7,7 +7,7 @@ The TALA repository consists of the [TALA kite](TALA_Kite), kite-specific [corre
 * [Lookup tables and equations](TALA_Measurement) for extrapolating air speed from measurments by:
  * correcting altitude measurements for line sag
  * correcting wind speed measurements for air density
-* A [Measurement procedure](TALA_Measurment)
+* A [Measurement procedure](TALA_Measurement)
 * Measurement equipment:
  * Spring scale for line tension
  * marked kite line for counting the amount of line in the air (or fishing line length counter) 
