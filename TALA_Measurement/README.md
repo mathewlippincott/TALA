@@ -7,6 +7,9 @@ At ICAO standard Day Pressure of 1013.25mbar (sea level) at 15° C the TALA show
 V= 0.5144(N/0.01779)^0.510
 Where V is m/s and N is Newtons
 
+![V= 0.5144(N/0.01779)^0.510](Mathpad_plot_newtons_MPS.png) 
+_graph made with [mathpad](http://pubpages.unh.edu/~mwidholm/MathPad/)_
+
 *When the lower half of the tail is disconnected, indicated air speed is lowered by 1% _(from the manual, page 8)_
 
 ####Correcting for temperature and pressure
