@@ -1,3 +1,7 @@
+Most of the following papers treat the kite in a simplified manner, as a flat plane inclined into the wind.  Those dynamics are explained in more depth in the book:
+
+Komura, Hirotsugu & Ito, Toshio. "Kites: The Science and the Wonder" Japanese Publications Inc. Tokyo: 1983. ["Tako No Kagaku" Shogakukan Publishing. Tokyo: 1979]
+
 __General Tethered Anemometry:__
 
 Chow, W.Y, & R.H. Kirchhoff. “Tethersonde and Kite Anemometer Evaluation.” PNL-6708, Pacific Northwest Laboratory. Subcontractor Report for US DOE. Richland: October 1988.
