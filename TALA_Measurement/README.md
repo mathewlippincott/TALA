@@ -21,24 +21,3 @@ Where P is the measured pressure in millebar. By adding the altitude of the TALA
 
 TAS=IAS + IASx%Correction
 
-The manual provides the following correlation points for pressure altitude in Table 1:
-
-_format into table or find equation from literature_
-
-Pressure altitude, Temperature, % correction
-
-?,-28°,-15%
-
--2800,-13°,-10%
-
--1500,0°,-5%
-
-0,15°,0%
-
-1400, 29°, 5%
-
-2800, 43°, 10%
-
-4100, 56°, 15%
-
-5300, ?°, 20%
