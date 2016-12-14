@@ -24,6 +24,10 @@ Kullgren, Thomas E. Finley, Thomas C. Boyce, Steven C.  “Academy Wind Site Sur
 Daniels, Anders. “Turbulence Assessment at Potential Turbine Sites.” Windpower ’96 - Proceedings of the American Wind Energy Association, p 369-378. Denver: June 1996.
 [Link](http://www.osti.gov/scitech/biblio/447473-turbulence-assessment-potential-turbine-sites)
 
+__TALA in Education__
+
+Bertrand, M and Donnelly, J. D. Go Fly a Kite! the Science Teacher pp 39-41 Volume 53: March 1986
+
 __Studies conducted with the TALA:__
 
 Taylor P.A. & H.W. Teunissen.  “Askervein ’82: Report on the September/October 1982 Eperiment to Study Boundary-Layer Flow over Akervein, South Uist.” MSRB-83-8, Meteorological Services Research Branch, Amospheric Environment Service. Downsview: November 1983.
