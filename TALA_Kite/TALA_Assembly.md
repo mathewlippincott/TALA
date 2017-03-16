@@ -5,7 +5,7 @@
 * All wood is 1/8” birch dowel
 * Spar tape is 3/4” Artists’ Tape 
  * (Dick Blick 24143-3014)
-* Bridle attachment tape is 2.5” packing tape
+* Bridle attachment tape is 1.5” packing tape
  * NOTE: this size of tape is no longer manufactured. buy larger tape and cut it down to width.
 * Kite rigging line is 50lb test braided dacron fishing line, .45mm in diameter
 * Kite flying line is 15kg test kevlar line, .25mm diameter.   
