@@ -1,7 +1,7 @@
-###TALA measurements
+### TALA measurements
 Measurements should be taken manually according to the [United States Air Force Vertical Profiling Procedure.](USAF_TALA.md)
 
-####Determining velocity in relation to force on the kite
+#### Determining velocity in relation to force on the kite
 At ICAO standard Day Pressure of 1013.25mbar (sea level) at 15° C the TALA shows 2% accuracy to the equation:
 
 V= 0.5144(N/0.01779)^0.510
@@ -14,7 +14,7 @@ _graph made with [mathpad](http://pubpages.unh.edu/~mwidholm/MathPad/)_
 
 
 
-####Correcting for temperature and pressure
+#### Correcting for temperature and pressure
 Measurements need to be corrected for temperature or pressure, expressed in [“pressure altitude.”](http://www.srh.noaa.gov/images/epz/wxcalc/pressureAltitude.pdf) 
 
 Pressure Altitude = (1-(P/1013.25)^0.190284)x145366

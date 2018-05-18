@@ -1,8 +1,8 @@
-###Introduction to the TALA
-The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](../Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground-based measurements. 
+### Introduction to the TALA
+The TALA, or Tethered Aerodynamic Lifting Anemometer, is a type of [Kite Wind Speed Meter](https://github.com/mathewlippincott/Kite-Wind-Speed-Meter) or anemometer, a device for measuring the wind speed at the kite using ground-based measurements. 
 The TALA repository consists of the [TALA kite](TALA_Kite), kite-specific [corrections to ground-based measurements](TALA_Measurement), as well as a kit of recommended tools for taking the required ground based measurements. Together these components form the TALA kit.
  
-###Current TALA kit 
+### Current TALA kit 
 * The [TALA kite](TALA_Kite)
 * [Lookup tables and equations](TALA_Measurement) for extrapolating air speed from measurments by:
  * correcting altitude measurements for line sag
@@ -17,9 +17,8 @@ The TALA repository consists of the [TALA kite](TALA_Kite), kite-specific [corre
  * barometer for ground pressure
 
 
-###[how you can contribute](contributing.md)
 
-###Designers of the TALA
+### Designers of the TALA
 The kite was originally designed by Raymond P. Holland Jr. and adapted by Charles F. Woodhouse for anemometry into the TALA product sold by Approach Fish until some time in the early 1990's. The invention is covered by expired US patents 3,767,145, 4,058,010, 4,152,933 & 4,221,351.
 	These plans are released under the [CERN OHL 1.2](LICENSE.MD), compiling [ongoing Public Lab research](www.publiclab.org/wiki/kite-anemometers) on the TALA into a DIY kit.
 	
@@ -27,9 +26,13 @@ The TALA was imagined as an automated kite flight and measurement system providi
 
 ![TALAs at an airport](pics/US4058010-1.png)
 
-###About this project
-The TALA repository is a project of [Public Lab](www.publiclab.org) to [collect ongoing research into kite anemometry](www.publiclab.org/tag/kite-anemometer) into a stable device replicating the TALA and licensed under [CERN OHL 1.2](LiCENSE.md).
+### About this project
+The TALA repository is a project of mathew lippincott and [@Ecta64](http://publiclab.org/profile/ecta64) to create a stable device replicating the TALA and licensed under [CERN OHL 1.2](LiCENSE.md).
 
-To read more about using kite anemometers and find resources and sources used in this repository, visit the [Public Lab Wiki](publiclab.org/wiki/kite-anemometers). To learn more about contibuting, please read our [contribution guidelines](contributing.md).
+To read more about using kite anemometers and find resources and sources used in this repository, visit the [Headfullofair.com](headfullofair.com/tags/kite-anemometers). 
+
+
+### [contributing](contributing.md)
+To learn more about contibuting, please read our [contribution guidelines](contributing.md).
 
 

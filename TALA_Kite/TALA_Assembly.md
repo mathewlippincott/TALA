@@ -1,6 +1,6 @@
-###Assembling the TALA
+### Assembling the TALA
 
-####Materials:
+#### Materials:
 * Kite main sheet and tail tassels are Tyvek type 1443R
 * All wood is 1/8” birch dowel
 * Spar tape is 3/4” Artists’ Tape 
@@ -12,27 +12,27 @@
  * This line is also known as trade size 69 (Tex 60) thread in the textile industry. It can be purchased through [Thread Exchange](http://www.thethreadexchange.com/).
 * Snap swivels are 14 gauge brass.
 
-####Tools needed: 
+#### Tools needed: 
 * straight edge
 * scissors or craft knife
 * US standard 1/4” hole punch 
 
-####Assembly instructions
+#### Assembly instructions
 Print [1/2 sheet cut pattern](TALA-half-sheet-8.5x11.pdf) on 8.5x11” paper and assemble tiled sheets.
 
 Tape as indicated.  Assembly diagram is for the back side of the kite. [print full-size tiled kite pattern](TALA-sheet-8.5x11.pdf)
 _[ADD svg vector diagram]_
 
 
-####Step-by-step
+#### Step-by-step
 _TBA_
 
-####Bridling
+#### Bridling
 Both the attachment bridle and tail bridle are 60" pieces of string.  Both need a 2" attachment loop tied on with a larks head knot.
 
-####Tail assembly
+#### Tail assembly
 
-#####How many tails? 
+##### How many tails? 
 We have two original tails for the TALA which can be assumed to be described in the patent US421351.
 
 The two tails may be two parts of a single tail, as described in the Air Force's vertical profiling procedure and elsewhere.  In this case the TALA would be flown with 1/2 tail in low winds and a full tail in high winds.
@@ -41,7 +41,7 @@ Alternatively, the two tails are two separate tails, one 1/2 length and the othe
 
 The TALA kite flies great with the shorter unweighted tail, and also flies great with the longer tail.
 
-####Materials and Design of the Tail 
+#### Materials and Design of the Tail 
 
 Both tails are made from the same string as the bridle and have 1" x 10" Type 1441 Tyvek tassels tied into them. Both tails are clipped to the tail bridle by means of a 14 guage snap swivel.
 

@@ -1,4 +1,4 @@
-###USAF TALA vertical profiling procedure
+### USAF TALA vertical profiling procedure
 For recording on [USAF TALA record sheet](TALA USAF_record_sheet.pdf)
 
 1. Assemble reel and handle.
@@ -18,7 +18,7 @@ For recording on [USAF TALA record sheet](TALA USAF_record_sheet.pdf)
 15. Take final reading of fixed instrumentation if applicable.
 16. Reduce data on a desktop computer or plot by hand.
 
-From Table 16, pages 52 and 53:
+*From Table 16, pages 52 and 53:*
 
 Kullgren, Thomas E. Finley, Thomas C. Boyce, Steven C.  USAF (United States Air Force) Academy Wind Site Survey: Methodologies for use by the Air Force. Final Report, May 1977-December 1980. Department of Engineering Mechanics and Department of Civil Engineering, United States Airforce Academy, 1983. 
 
