@@ -27,9 +27,9 @@ The TALA was imagined as an automated kite flight and measurement system providi
 ![TALAs at an airport](pics/US4058010-1.png)
 
 ### About this project
-The TALA repository is a project of mathew lippincott and [@Ecta64](http://publiclab.org/profile/ecta64) to create a stable device replicating the TALA and licensed under [CERN OHL 1.2](LiCENSE.md).
+The TALA repository is a project of [Mathew Lippincott](headfullofair.com) and [@Ecta64](http://publiclab.org/profile/ecta64) to create a stable device replicating the TALA and licensed under [CERN OHL 1.2](LiCENSE.md).
 
-To read more about using kite anemometers and find resources and sources used in this repository, visit the [Headfullofair.com](headfullofair.com/tags/kite-anemometers). 
+To read more about using kite anemometers and find resources and sources used in this repository, visit [headfullofair.com/tags/kite-anemometers](headfullofair.com/tags/kite-anemometers). 
 
 
 ### [contributing](contributing.md)
