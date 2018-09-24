@@ -2,7 +2,7 @@
 
 You can contribute to this design by:
 
-* Replicating the winder and documenting your use of it. Please [reach out](http://headfullofair.com/contact) and share.
+* Replicating the kite and documenting your use of it. Please [reach out](http://headfullofair.com/contact) and share.
 * Forking this repository and improving the design documentation, or assembly instructions.
 * Adding your comments to [open issues in this repository](/issues).
 * Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](https://github.com/mathewlippincott/Kite-Wind-Speed-Meter) repository, as well as adding applications of those models.
